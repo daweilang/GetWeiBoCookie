@@ -5,7 +5,10 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">填写微博路径</div>
+                <div class="panel-heading">填写需要登录才能访问的微博地址</div>
+                <div class="panel-heading">
+                	获得的微博Cookie储存于项目目录下"storage/app/wbcookie/cookie_weibo.txt"中<br>
+                </div>
                 <div class="panel-body">
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/admin/authorize/getTestContent') }}">
                         {{ csrf_field() }}

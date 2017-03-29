@@ -185,7 +185,7 @@ EOT;
     	$cookieWeibo = storage_path()."/app/wbcookie/cookie_weibo.txt";
     	$cookieGet =  storage_path()."/app/wbcookie/cookie_curl.txt";
     	
-    	if(!Storage::exists($cookieWeibo)){
+    	if(!Storage::exists("wbcookie/cookie_weibo.txt")){
     		return view("admin/error", [ 'error' => '未获得授权信息，请重新登录！']);
     	}
     	
