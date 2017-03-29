@@ -1,11 +1,10 @@
-# 功能说明
+# 功能介绍
 使用Laravel框架，模拟新浪登录，获得新浪微博cookie，可以作为后续抓取微博数据的基础<br/>
 
 =================================================================================
+# 说明文档
+> [PHP 基于laravel框架获取微博数据之一 模拟新浪微博登录](https://github.com/daweilang/GetWeiBoCookie/issues/2）
 
-# PHP 基于laravel框架获取微博数据之一 模拟新浪微博登录
-对使用php模拟登录新浪微博的介绍<br/>
-https://github.com/daweilang/GetWeiBoCookie/issues/2<br/>
 
 本项目已实现模拟新浪微博登录的功能，之后不再更新。<br/>
 
