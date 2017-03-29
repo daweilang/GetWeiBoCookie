@@ -3,7 +3,7 @@
 
 =================================================================================
 # 说明文档
-> [PHP 基于laravel框架获取微博数据之一 模拟新浪微博登录](https://github.com/daweilang/GetWeiBoCookie/issues/2）
+> [PHP 基于laravel框架获取微博数据之一 模拟新浪微博登录](https://github.com/daweilang/GetWeiBoCookie/issues/2)
 
 
 本项目已实现模拟新浪微博登录的功能，之后不再更新。<br/>
